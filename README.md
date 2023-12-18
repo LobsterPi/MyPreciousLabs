@@ -1,2 +1,2 @@
 # MyPreciousLabs
-test repository for projects from course GOit frontend
+test repository for projects from course GoIT frontend
